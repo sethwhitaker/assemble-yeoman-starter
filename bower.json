@@ -1,0 +1,14 @@
+{
+  "name": "assemble",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "<2",
+    "modernizr": "~2.7.2",
+    "respond": "~1.4.2",
+    "selectivizr": "~1.0.2",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2",
+    "media-match": "~2.0.2",
+    "bootstrap-sass": "git://github.com/twbs/bootstrap-sass.git#~3.1.1"
+  }
+}
