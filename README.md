@@ -1,4 +1,4 @@
-# samsung-docs
+# Assemble Starter
 
 > The best project ever..
 
